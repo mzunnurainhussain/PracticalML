@@ -222,3 +222,4 @@ prp(treeModel) # fast plot
 ```
 
 ![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png)
+
